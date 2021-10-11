@@ -1,4 +1,7 @@
-### Hi there 👋
+### oiê! 👋
+
+- 🌱 Estudando TypeScript e P5
+- - 😄 Pronouns: ela/dela
 
 <!--
 **annajuliabreu/annajuliabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
