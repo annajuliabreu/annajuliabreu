@@ -1,7 +1,7 @@
 ### oiê! 👋
 
 - 🌱 Estudando TypeScript e P5
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 
 ### hi there! 👋
 
