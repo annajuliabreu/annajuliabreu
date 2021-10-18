@@ -3,6 +3,11 @@
 - 🌱 Estudando TypeScript e P5
 - 😄 Pronouns: ela/dela
 
+### hi there! 👋
+
+- 🌱 Studying TypeScript and P5
+- 😄 Pronouns: she/her
+
 <!--
 **annajuliabreu/annajuliabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
