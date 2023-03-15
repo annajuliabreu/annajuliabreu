@@ -1,6 +1,6 @@
 ### hi there! 👋
 
-- 🌱 Studying HTML, CSS, Javacript and TypeScript
+- 🌱 Studying React
 - 😄 Pronouns: she/her
 
 <!--
