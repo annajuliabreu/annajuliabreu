@@ -5,7 +5,7 @@
 
 ![annajuliabreu GitHub stats](https://github-readme-stats.vercel.app/api?username=annajuliabreu&show_icons=true&theme=dracula)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajuliabreu&theme=blue-green)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajuliabreu&theme=dracula)
 
 <!--
 **annajuliabreu/annajuliabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
