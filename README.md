@@ -3,8 +3,8 @@
 - 🌱 Studying React
 - 😄 Pronouns: she/her
 
-![annajuliabreu GitHub stats](https://github-readme-stats.vercel.app/api?username=annajuliabreu&show_icons=true&theme=dracula) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajuliabreu&theme=dracula)
-
+<!-- ![annajuliabreu GitHub stats](https://github-readme-stats.vercel.app/api?username=annajuliabreu&show_icons=true&theme=dracula) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajuliabreu&theme=dracula)
+ -->
 <!-- #### Skills
 
 <div style="display: inline_block"><br/>
