@@ -5,6 +5,18 @@
 - 😄 Pronouns: she/her
 
 <!-- ![annajuliabreu GitHub stats](https://github-readme-stats.vercel.app/api?username=annajuliabreu&show_icons=true&theme=dracula) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajuliabreu&theme=dracula)
+
+
+<br/>
+<div style="display: inline_block"><br/>
+<img align="center" alt="Naju-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+<img align="center" alt="Naju-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;">
+<img align="center" alt="Naju-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
+<img align="center" alt="Naju-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;">
+<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;">
+</div>
+<br/>
+
  -->
 <!-- #### Skills
 
