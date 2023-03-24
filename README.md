@@ -1,6 +1,7 @@
 ### hi, there! 👋
 
-- 🌱 Studying React
+-  👩🏻‍💻 Digital Design Student at Federal University of Ceará
+- 🌱 I’m currently learning/studying React
 - 😄 Pronouns: she/her
 
 <!-- ![annajuliabreu GitHub stats](https://github-readme-stats.vercel.app/api?username=annajuliabreu&show_icons=true&theme=dracula) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annajuliabreu&theme=dracula)
