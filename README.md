@@ -1,7 +1,24 @@
 ### hi, there! 👋
 -  👩🏻‍🎓 Digital Design Student at Federal University of Ceará
 - 🌱 I’m currently learning/studying React
+- ❤️ I love to create, design and learn new things
 - 😄 Pronouns: she/her
+
+<!-- <ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">👩🏻‍🎓</g-emoji>  Digital Design Student at Federal University of Ceará</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">🌱</g-emoji> I’m currently learning/studying React</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> I love to create, design and learn new things</p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">😄</g-emoji> Pronouns: she/her</p>
+</li>
+</ul> -->
+
 <h2 dir="auto"></h2>
 
 ### skills 👩🏻‍💻
