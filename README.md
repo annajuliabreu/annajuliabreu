@@ -1,6 +1,6 @@
 ### hi, there! 👋
 -  👩🏻‍🎓 Digital Design Student at Federal University of Ceará
-- 🌱 I’m currently learning/studying React
+- 🌱 I’m currently learning/studying React Native
 - ❤️ I love to create, design and learn new things
 - 😄 Pronouns: she/her
 
