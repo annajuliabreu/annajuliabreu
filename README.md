@@ -1,6 +1,6 @@
 ### hi, there! 👋
 -  👩🏻‍🎓 Digital Designer
-- 🌱 I’m currently learning/studying UX/UI Design
+- 🌱 I’m currently learning/studying UI/UX Design
 - ❤️ I love to create, design and learn new things
 - 😄 Pronouns: she/her
 
